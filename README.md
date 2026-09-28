@@ -15,3 +15,7 @@ Welcome to the ultimate curated directory of advanced AI utilities, digital temp
 ### 🔗 Explore More Now:
 Discover the full, updated list and simplify your digital creation journey today at: **[https://lumina-hub-ai.netlify.app/](https://lumina-hub-ai.netlify.app/)**
 
+## 🎨 Image Generation
+
+- [Raphael AI](https://raphael.app) — Free unlimited AI image generator with multi-model routing. No signup required for core generation.
+
